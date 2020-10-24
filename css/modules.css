@@ -1,0 +1,101 @@
+
+#a {
+    background-color:  #113d66c4;
+}
+
+#b {
+    
+    background-color: #3502acb6;
+}
+
+#c {
+    background-color: rgba(0, 40, 218, 0.623);
+}
+
+#d {
+    background-color: #45accca2;
+}
+#e {
+    background-color:#22cbffb4;
+}
+#f {
+    background-color: #99bbbbb2;
+}
+#g {
+    background-color: #29d3cace;
+}
+#h {
+    background-color: rgba(138, 226, 226, 0.911);
+}
+#i {
+    background-color: rgba(95, 211, 211, 0.801);
+}
+
+/* tablet view */
+@media (min-width: 768px) {
+    #a {
+        background-color: #ffeeee85;
+    }
+    
+    #b {
+        background-color:#dddddd;
+    }
+    
+    #c {
+        background-color: #8a000098;
+    }
+    
+    #d {
+        background-color: rgba(34, 6, 112, 0.466);
+    }
+    #e {
+        background-color:#7371f179;
+    }
+    #f {
+        background-color: #3637556c;
+    }
+    #g {
+        background-color:#77779969;
+    }
+    #h {
+        background-color: #4cc8e775;
+    }
+    #i {
+        background-color: rgba(48, 241, 241, 0.295);
+    }
+}
+
+/* desktop view */
+@media (min-width: 961px) {
+    #a {
+        background-color: #bff0f083;
+    }
+    
+    #b {
+        background-color: #ffd9d988;
+    }
+    
+    #c {
+        background-color: #d4a8a88e;
+    }
+    
+    #d {
+        background-color:#fd9fe188;
+    }
+    #e {
+        background-color:#d0b3cc88;
+    }
+    #f {
+        background-color: #ffeeee85;
+    }
+    #g {
+        background-color:  #7766aa79;
+    }
+    #h {
+        background-color: rgba(219, 37, 180, 0.432);
+    }
+    #i {
+        background-color:  #7bf1f157;
+    }
+
+}
